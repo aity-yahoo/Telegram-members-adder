@@ -2,6 +2,7 @@ heroku3
 pyrogram==1.0.7
 telethon
 pyromod
+flask
 tgcrypto
 requests
 Pillow
